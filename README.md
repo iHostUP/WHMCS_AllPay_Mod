@@ -20,4 +20,5 @@
 +支援信用卡支付  
 
 ###技術支援
-Email : admin@ihostup.com
+Email : admin@ihostup.com  
+模組維護 : Yin@iHostUP
