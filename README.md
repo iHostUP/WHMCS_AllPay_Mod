@@ -11,7 +11,7 @@
 
 ###注意事項
 若有必要更換帳單前綴  
-需先將callback檔案內的InvoicePrefix變數設定相同的前綴
+需先將gateways及callback資料夾檔案內的InvoicePrefix變數設定相同的前綴
 
 ###版本紀錄
 ####V1.1
@@ -26,4 +26,4 @@
 ###技術支援
 Email : admin@ihostup.com  
 Web Site : https://ihostup.com/   
-模組維護 : Yin@iHostUP
+模組維護 : Ying@iHostUP
